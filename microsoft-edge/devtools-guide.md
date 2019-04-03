@@ -8,7 +8,9 @@ ms.topic: article
 ms.prod: microsoft-edge
 ms.technology: devtools
 keywords: microsoft edge, web development, f12 tools, devtools
+keywords: microsoft edge, web development, f12 tools, devtools1
 experimental: true
+experimental: false
 experiment_id: "51fe4b97-3e55-41"
 ---
 
