@@ -2,7 +2,7 @@
 ## [Accessibility](accessibility.md)
 ### [Design](accessibility/design.md)
 ### [Build](accessibility/build.md)
-#### [ARIA and UI Automation](accessibility/build/ARIA-and-UI-Automation.md)
+#### [ARIA and UI Automation](accessibility/build/ARIA and-UI-Automation.md)
 ### [Test](accessibility/test.md)
 ###[Dev Guide](dev-guide.md)
 ### [What’s new in EdgeHTML](dev-guide/whats-new.md)
