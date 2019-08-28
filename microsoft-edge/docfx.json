@@ -39,7 +39,11 @@
       "feedback_product_url": "https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer",
       "extendBreadcrumb": true
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+      "api_name":{
+        "dev-guide/whats-new/**/*.md": "test string"
+      }
+    },
     "template": [
       "docs.html"
     ],
