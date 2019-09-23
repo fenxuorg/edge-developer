@@ -6,6 +6,16 @@
       "redirect_document_id": true
     },
     {
+      "source_path": "microsoft-edge/devtools-guide/debugger/progressive-web-apps-1.md",
+      "redirect_url": "/edge-developer-ppe/devtools-guide/service-workers",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "microsoft-edge/devtools-guide/debugger/progressive-web-apps-2.md",
+      "redirect_url": "/edge-developer-ppe/devtools-guide/service-workers",
+      "redirect_document_id": true
+    },
+    {
       "source_path": "microsoft-edge/devtools-guide/debugger/indexeddb.md",
       "redirect_url": "/edge-developer-ppe/devtools-guide/storage",
       "redirect_document_id": true
