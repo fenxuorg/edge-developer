@@ -5,7 +5,7 @@
 #### [ARIA and UI Automation](accessibility/build/ARIA-and-UI-Automation.md)
 ### [Test](accessibility/test.md)
 ## [Dev Guide](dev-guide.md)
-### [What’s new in EdgeHTML](dev-guide/whats-new.md)
+### [What’s new in EdgeHTML](dev-guide/whats-news.md)
 #### [EdgeHTML 17](dev-guide/whats-new/edgeHTML-17.md)
 #### [EdgeHTML 16](dev-guide/whats-new/edgeHTML-16.md)
 #### [EdgeHTML 15](dev-guide/whats-new/edgeHTML-15.md)
