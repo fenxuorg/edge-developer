@@ -92,7 +92,7 @@ If this were an existing live site, you could quickly generate a web app manifes
 
     6. Open (with Visual Studio or any editor) the *icons.json* file from the extracted zip and copy the `"icons": [...]` array into your project's *manifest.json* file.
 
-4. Now we just need to associate our web app manifest with the app itself. Open the *layout.pug* file (in *views* folder) for editing, and add this line right after the stylesheet link. (Its simply Node's [pug](https://pugjs.org/language/attributes.html) template shorthand for `<link rel='manifest' href='/manifest.json'>`).
+4. Now we just need to associate our web app manifest with the app itself. Open the *layout.pug* file (in *views* folder) for editing, and add this line right after the stylesheet link. (Its simply Node's [pug](https://pugjs.org/language/attributes.html) template, Its simply Node's [pug](https://pugjs.org/language/attributes.html) template shorthand for `<link rel='manifest' href='/manifest.json'>`).
 
     ```HTML
     link(rel='manifest', href='/manifest.json')
