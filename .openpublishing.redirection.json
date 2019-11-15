@@ -3,7 +3,7 @@
     {
       "source_path": "microsoft-edge/devtools-guide/debugger/progressive-web-apps.md",
       "redirect_url": "/edge-developer-ppe/devtools-guide/service-workers",
-      "redirect_document_id": true
+      "redirect_document_id": true,
     },
     {
       "source_path": "microsoft-edge/devtools-guide/debugger/indexeddb.md",
