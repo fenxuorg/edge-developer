@@ -3,7 +3,7 @@
     {
       "source_path": "microsoft-edge/devtools-guide/debugger/progressive-web-apps.md",
       "redirect_url": "/edge-developer-ppe/devtools-guide/service-workers",
-      "redirect_document_id": true,
+      "redirect_document_id": true
     },
     {
       "source_path": "microsoft-edge/devtools-guide/debugger/indexeddb.md",
@@ -684,6 +684,11 @@
       "source_path": "microsoft-edge/webview/WebResourceRequestedEvent.md",
       "redirect_url": "/edge-developer-ppe/hosting/webview/WebResourceRequestedEvent",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "microsoft-edge/extensions/microsoft-browser-extension-policy.md",
+      "redirect_url": "https://docs.microsoft.com/en-us/legal/windows/agreements/microsoft-browser-extension-policy",
+      "redirect_document_id": false
     }
   ]
 }
