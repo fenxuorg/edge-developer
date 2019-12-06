@@ -12,6 +12,10 @@ keywords: microsoft edge, edgehtml, devtools, f12 tools, pwa, extensions, webdri
 ---
 # Microsoft Edge developer documentation
 
+- Not decode link [Html Decode](https://review.docs.microsoft.com/en-us/new-hope/specs/bi-implementation/enable%20oneplayer%20video%20events%20for%20analytics?branch=master)
+
+- Another not decode link [Url Decode](http%3a%2f%2fwww.google.com%2fsearch%3fhl%3den%26q%3dsomething%20%2323%26btnG%3dGoogle%2bSearch%26aq%3df%26oq%3d)
+
 Microsoft Edge is the browser built for Windows 10, providing fast, safe, and productive web experiences. Here are all the developer features and tools available to you in Microsoft Edge and the EdgeHTML engine.
 <ul class="panelContent cardsFTitle">
     <li>
