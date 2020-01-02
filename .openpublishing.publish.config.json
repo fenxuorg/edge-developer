@@ -54,7 +54,7 @@
   "need_generate_intellisense": false,
   "docs_build_engine": {
     "name": "docfx_v3",
-    "name": "3.0.0-ppe-202001020217"
+    "version": "3.0.0-ppe-202001020217"
   },
   "feature_flags": {
     "use_v2_github_user_cache": true
