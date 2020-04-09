@@ -11,7 +11,7 @@ keywords: accessibility, accessibility for developers, accessible websites, edge
 ---
 
 # Accessibility 
-*"[T]he impact of disability is radically changed on the Web because the Web removes barriers to communication and interaction that many people face in the physical world." [(W3C - Accessibility)](https://www.w3.org/standards/webdesign/accessibility)*
+*"[T]he impact of dicsability is radically changed on the Web because the Web removes barriers to communication and interaction that many people face in the physical world." [(W3C - Accessibility)](https://www.w3.org/standards/webdesign/accessibility)*
 
 The [World Health Organization](http://www.who.int/topics/disabilities/en/) defines disability as "a mismatch in interaction between the features of a person’s body and the features of the environment in which they live." Disabilities can range from situational disabilities, like limited mobility while holding a baby or bright sunlight on a phone, to other physical, auditory, visual, or age-related impairments. 
 
